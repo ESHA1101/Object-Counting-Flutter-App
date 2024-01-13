@@ -1,13 +1,19 @@
 Object-Counting-Flutter-App
+
 An Object Counting application built using Flutter, NGROK, Flask, using the YOLOv8 model from the ultralytics library.
 
 Getting Started
+
 Clone this github repo to your local system and navigate to the API folder.
 
 Setting Up a Virtual Environment and Installing Libraries
+
 Install virtualenv (if not already installed)
+
 pip install venv
+
 Create a Virtual Environment
+
 python3 -m venv myenv
 Activate the virtual environment by running the appropriate command for your OS
 source myenv/bin/activate
